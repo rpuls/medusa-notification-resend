@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rpuls/medusa-notification-resend.git#patch"
+    "url": "git+https://github.com/rpuls/medusa-notification-resend.git"
   },
   "keywords": ["Resend", "Medusa", "MedusaJS", "Typed Development", "Email Provider", "Medusa Plugin", "Plugin", "NodeJS"],
   "files": [
